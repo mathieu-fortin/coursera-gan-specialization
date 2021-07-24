@@ -116,3 +116,6 @@ dmypy.json
 # Data
 data/
 models/inception_v3_google-1a9a5a14.pth
+c3w2/maps
+models/cycleGAN.pth
+c3w2/pix2pix_15000.pth
